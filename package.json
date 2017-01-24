@@ -1,0 +1,19 @@
+{
+  "name": "angular-peity",
+  "version": "1.0.0",
+  "description": "[Peity](http://benpickles.github.io/peity/) is a jQuery plugin that converts an element's content into simple `<svg>` charts. This is an AngularJS directive that makes them easy to use in any project by binding data and options to a controller.",
+  "main": "angular-peity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankosoftware/angular-peity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankosoftware/angular-peity/issues"
+  },
+  "homepage": "https://github.com/ankosoftware/angular-peity#readme"
+}
